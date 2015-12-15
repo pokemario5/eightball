@@ -1,1 +1,5 @@
-[] 
+[
+
+  ["death|die", "bomb.txt"]
+  ["life|live", "Die"]
+] 
