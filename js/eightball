@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+ function print(){
+ process.stdout.write("danald trumpet");
+}
+
+print(yorny horni)
